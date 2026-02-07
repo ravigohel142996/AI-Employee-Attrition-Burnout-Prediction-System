@@ -259,16 +259,13 @@ streamlit run app.py --server.port 8501
 
 ## 🎨 Screenshots
 
-### Main Dashboard
-![Dashboard Preview](https://via.placeholder.com/800x450/1E3A8A/FFFFFF?text=Main+Dashboard+Preview)
+### Main Dashboard - Welcome Screen
+![Dashboard Preview](https://github.com/user-attachments/assets/3472e138-2002-42c6-9422-0429c6aeff27)
+*Professional dashboard with comprehensive employee input form and key metrics*
 
-### Risk Analysis
-![Risk Analysis](https://via.placeholder.com/800x450/DC2626/FFFFFF?text=Risk+Analysis+View)
-
-### Team Overview
-![Team Summary](https://via.placeholder.com/800x450/10B981/FFFFFF?text=Team+Risk+Summary)
-
-> **Note**: Screenshots will be updated with actual application images
+### Risk Analysis & Prediction Results
+![Risk Analysis](https://github.com/user-attachments/assets/955a1aed-a193-40e5-ad90-e3adc7a53483)
+*Real-time risk assessment with color-coded alerts, visualizations, and actionable recommendations*
 
 ---
 

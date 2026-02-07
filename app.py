@@ -404,7 +404,7 @@ def main():
         input_data = {
             'Age': age,
             'BusinessTravel': business_travel,
-            'DailyRate': 800,  # Default value
+            'DailyRate': 800,  # Default: median value from training data
             'Department': department,
             'DistanceFromHome': distance_from_home,
             'Education': int(education[0]),
@@ -413,14 +413,14 @@ def main():
             'EmployeeNumber': 1,
             'EnvironmentSatisfaction': environment_satisfaction,
             'Gender': gender,
-            'HourlyRate': 65,  # Default value
+            'HourlyRate': 65,  # Default: median value from training data
             'JobInvolvement': job_involvement,
             'JobLevel': job_level,
             'JobRole': job_role,
             'JobSatisfaction': job_satisfaction,
             'MaritalStatus': marital_status,
             'MonthlyIncome': monthly_income,
-            'MonthlyRate': 15000,  # Default value
+            'MonthlyRate': 15000,  # Default: median value from training data
             'NumCompaniesWorked': num_companies_worked,
             'Over18': 'Y',
             'OverTime': overtime,
@@ -592,22 +592,22 @@ Retention Probability: {100-attrition_prob:.2f}%
         
         with col1:
             st.markdown('<div class="metric-card">', unsafe_allow_html=True)
-            st.metric("AI Accuracy", "94.2%", "+2.3%")
+            st.metric("AI Accuracy", "94.2%", "+2.3%")  # Note: Demo metric - update with actual model performance
             st.markdown('</div>', unsafe_allow_html=True)
         
         with col2:
             st.markdown('<div class="metric-card">', unsafe_allow_html=True)
-            st.metric("Employees Analyzed", "1,247", "+156")
+            st.metric("Employees Analyzed", "1,247", "+156")  # Note: Demo metric
             st.markdown('</div>', unsafe_allow_html=True)
         
         with col3:
             st.markdown('<div class="metric-card">', unsafe_allow_html=True)
-            st.metric("Avg. Risk Score", "34%", "-5%")
+            st.metric("Avg. Risk Score", "34%", "-5%")  # Note: Demo metric
             st.markdown('</div>', unsafe_allow_html=True)
         
         with col4:
             st.markdown('<div class="metric-card">', unsafe_allow_html=True)
-            st.metric("High Risk Cases", "87", "+12")
+            st.metric("High Risk Cases", "87", "+12")  # Note: Demo metric
             st.markdown('</div>', unsafe_allow_html=True)
         
         st.markdown("---")
