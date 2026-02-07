@@ -320,7 +320,7 @@ def main():
     """Main application function"""
     
     # Header
-    st.markdown('<h1 class="main-header">👔 Employee Attrition & Burnout Prediction System</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="main-header">Employee Attrition & Burnout Prediction System</h1>', unsafe_allow_html=True)
     st.markdown('<p class="sub-header">AI-Powered HR Analytics for Proactive Talent Retention</p>', unsafe_allow_html=True)
     
     # Initialize predictor
@@ -332,12 +332,12 @@ def main():
     predictor = st.session_state.predictor
     
     if not predictor.model_loaded:
-        st.error("⚠️ Model not loaded. Please train the model first.")
+        st.error("Model not loaded. Please train the model first.")
         st.info("Run: `python model/train_model.py`")
         return
     
     # Sidebar - Input Form
-    st.sidebar.header("📝 Employee Information")
+    st.sidebar.header("Employee Information")
     st.sidebar.markdown("---")
     
     # Personal Information
@@ -396,7 +396,7 @@ def main():
     training_times_last_year = st.sidebar.slider("Training Times Last Year", 0, 6, 3)
     
     st.sidebar.markdown("---")
-    predict_button = st.sidebar.button("🎯 Predict Attrition Risk", use_container_width=True)
+    predict_button = st.sidebar.button("Predict Attrition Risk", use_container_width=True)
     
     # Main content area
     if predict_button:
@@ -439,7 +439,7 @@ def main():
         }
         
         # Make prediction
-        with st.spinner("🤖 Analyzing employee data..."):
+        with st.spinner("Analyzing employee data..."):
             prediction, attrition_prob = predictor.predict(input_data)
         
         if prediction is not None:
@@ -506,7 +506,7 @@ def main():
             
             # Team Summary Section
             st.markdown("---")
-            st.subheader("📊 Team Risk Summary")
+            st.subheader("Team Risk Summary")
             
             # Mock team data
             team_data = pd.DataFrame({
