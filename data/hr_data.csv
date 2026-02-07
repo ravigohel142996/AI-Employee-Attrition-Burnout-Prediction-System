@@ -1,0 +1,47 @@
+Age,Attrition,BusinessTravel,DailyRate,Department,DistanceFromHome,Education,EducationField,EmployeeCount,EmployeeNumber,EnvironmentSatisfaction,Gender,HourlyRate,JobInvolvement,JobLevel,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,MonthlyRate,NumCompaniesWorked,Over18,OverTime,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,StandardHours,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager
+41,Yes,Travel_Rarely,1102,Sales,1,2,Life Sciences,1,1,2,Female,94,3,2,Sales Executive,4,Single,5993,19479,8,Y,Yes,11,3,1,80,0,8,0,1,6,4,0,5
+49,No,Travel_Frequently,279,Research & Development,8,1,Life Sciences,1,2,3,Male,61,2,2,Research Scientist,2,Married,5130,24907,1,Y,No,23,4,4,80,1,10,3,3,10,7,1,7
+37,Yes,Travel_Rarely,1373,Research & Development,2,2,Other,1,4,4,Male,92,2,1,Laboratory Technician,3,Single,2090,2396,6,Y,Yes,15,3,2,80,0,7,3,3,0,0,0,0
+33,No,Travel_Frequently,1392,Research & Development,3,4,Life Sciences,1,5,4,Female,56,3,1,Research Scientist,3,Married,2909,23159,1,Y,Yes,11,3,3,80,0,8,3,3,8,7,3,0
+27,No,Travel_Rarely,591,Research & Development,2,1,Medical,1,7,1,Male,40,3,1,Laboratory Technician,2,Married,3468,16632,9,Y,No,12,3,4,80,1,6,3,3,2,2,2,2
+32,No,Travel_Frequently,1005,Research & Development,2,2,Life Sciences,1,8,4,Male,79,3,1,Laboratory Technician,4,Single,3068,11864,0,Y,No,13,3,3,80,0,8,2,2,7,7,3,6
+59,No,Travel_Rarely,1324,Research & Development,3,3,Medical,1,10,3,Female,81,4,2,Laboratory Technician,1,Married,2670,9964,4,Y,Yes,20,4,1,80,3,12,3,2,1,0,0,0
+30,No,Travel_Rarely,1358,Research & Development,24,1,Life Sciences,1,11,4,Male,67,3,1,Laboratory Technician,3,Divorced,2693,13335,1,Y,No,22,4,2,80,1,1,2,2,1,0,0,0
+38,No,Travel_Frequently,216,Research & Development,23,3,Life Sciences,1,12,4,Male,44,2,2,Manufacturing Director,3,Single,9526,8787,0,Y,No,21,4,2,80,0,10,2,3,9,7,1,8
+36,No,Travel_Rarely,1299,Research & Development,27,3,Medical,1,13,3,Male,94,3,2,Healthcare Representative,3,Married,5237,16577,6,Y,No,13,3,2,80,0,17,3,2,7,7,3,7
+35,No,Travel_Rarely,809,Research & Development,16,3,Medical,1,14,1,Male,84,3,1,Laboratory Technician,2,Married,2426,12290,0,Y,No,12,3,4,80,1,6,0,3,0,0,0,0
+29,No,Travel_Rarely,153,Research & Development,15,2,Life Sciences,1,15,4,Male,49,2,1,Laboratory Technician,2,Married,4193,5063,0,Y,No,11,3,1,80,0,10,2,4,9,2,0,8
+31,No,Travel_Rarely,670,Research & Development,26,1,Life Sciences,1,16,1,Male,48,3,2,Laboratory Technician,4,Married,3623,20823,1,Y,Yes,14,3,1,80,1,10,5,3,8,7,7,8
+34,No,Travel_Rarely,1346,Research & Development,19,4,Medical,1,17,2,Male,83,4,1,Laboratory Technician,2,Married,2571,10228,0,Y,No,23,4,4,80,0,6,4,3,4,2,0,3
+28,Yes,Travel_Rarely,1264,Research & Development,24,2,Life Sciences,1,18,3,Female,66,3,1,Laboratory Technician,4,Single,2302,17048,1,Y,No,16,3,1,80,1,8,4,2,7,5,0,7
+29,No,Travel_Rarely,1157,Research & Development,4,3,Life Sciences,1,19,3,Male,94,2,1,Laboratory Technician,1,Single,4193,12251,1,Y,No,13,3,1,80,1,8,2,2,6,3,0,3
+32,Yes,Travel_Frequently,645,Research & Development,9,4,Life Sciences,1,20,2,Male,93,2,1,Research Scientist,4,Married,3540,18168,1,Y,No,13,3,3,80,1,5,2,2,3,2,1,3
+24,No,Travel_Frequently,1299,Research & Development,2,1,Life Sciences,1,21,4,Male,80,3,1,Laboratory Technician,3,Single,2571,9481,1,Y,No,11,3,3,80,1,1,6,2,0,0,0,0
+27,Yes,Travel_Rarely,694,Research & Development,7,2,Medical,1,22,4,Female,52,4,1,Laboratory Technician,1,Married,2302,15039,1,Y,No,12,3,3,80,0,4,4,2,2,2,0,2
+49,No,Travel_Frequently,225,Research & Development,2,1,Life Sciences,1,23,4,Male,71,2,2,Laboratory Technician,4,Married,7127,12653,2,Y,No,25,4,3,80,2,17,3,3,14,10,5,12
+34,No,Travel_Frequently,1483,Research & Development,8,4,Medical,1,24,2,Male,97,3,3,Research Scientist,4,Married,6694,21153,1,Y,No,12,3,3,80,2,10,5,3,9,9,7,8
+31,No,Travel_Rarely,1025,Sales,20,1,Medical,1,25,4,Male,41,3,2,Sales Representative,4,Married,6064,5729,4,Y,Yes,13,3,1,80,0,9,5,3,7,7,2,7
+29,No,Travel_Rarely,663,Research & Development,1,1,Life Sciences,1,26,1,Male,58,2,1,Laboratory Technician,1,Married,2031,13493,0,Y,No,11,3,3,80,1,5,2,3,4,2,1,2
+32,No,Travel_Rarely,588,Research & Development,11,2,Life Sciences,1,27,3,Male,42,3,2,Manufacturing Director,3,Married,8601,21457,1,Y,No,12,3,3,80,1,14,3,3,12,8,0,8
+59,Yes,Travel_Rarely,833,Research & Development,2,3,Medical,1,28,1,Female,87,4,5,Manager,1,Married,17048,27019,1,Y,No,13,3,1,80,1,9,5,1,7,7,7,7
+26,No,Travel_Rarely,1025,Research & Development,14,2,Life Sciences,1,29,3,Male,63,2,1,Laboratory Technician,1,Single,2786,17106,0,Y,No,15,3,4,80,0,4,3,3,3,2,0,2
+35,Yes,Travel_Rarely,1410,Research & Development,1,3,Life Sciences,1,30,4,Male,85,3,1,Laboratory Technician,3,Married,2661,17545,4,Y,No,11,3,2,80,1,8,2,4,6,4,0,5
+26,No,Travel_Rarely,223,Sales,5,3,Life Sciences,1,31,3,Male,66,3,1,Sales Representative,3,Single,2028,8567,0,Y,No,12,3,3,80,0,8,2,4,7,5,0,6
+28,No,Travel_Frequently,1458,Research & Development,20,1,Medical,1,32,1,Male,78,3,1,Laboratory Technician,3,Single,2028,6930,1,Y,Yes,14,3,2,80,0,6,4,2,4,3,1,3
+29,Yes,Travel_Rarely,1577,Research & Development,10,2,Life Sciences,1,33,3,Male,87,3,1,Laboratory Technician,4,Married,4300,10282,1,Y,No,11,3,1,80,1,5,2,3,4,2,0,2
+32,No,Travel_Rarely,711,Research & Development,10,4,Life Sciences,1,34,4,Male,73,3,3,Research Scientist,2,Married,4404,19281,1,Y,No,11,3,2,80,1,10,2,4,9,7,1,7
+31,No,Travel_Rarely,1346,Research & Development,9,2,Medical,1,35,3,Male,79,3,1,Laboratory Technician,1,Single,2755,12631,4,Y,No,23,4,4,80,1,5,3,3,4,2,0,3
+26,No,Travel_Rarely,1299,Sales,10,3,Technical Degree,1,36,3,Male,94,3,1,Sales Representative,3,Married,2068,10333,0,Y,No,22,4,3,80,1,5,2,4,4,2,1,3
+29,No,Travel_Rarely,670,Research & Development,9,2,Life Sciences,1,37,4,Male,48,3,1,Laboratory Technician,4,Married,2031,6341,1,Y,No,14,3,1,80,0,7,2,3,6,3,0,3
+28,Yes,Travel_Rarely,850,Research & Development,29,3,Life Sciences,1,38,2,Female,46,3,1,Laboratory Technician,3,Single,2343,13068,1,Y,No,13,3,4,80,0,6,2,2,4,2,0,2
+30,No,Travel_Rarely,1376,Research & Development,24,3,Medical,1,39,2,Male,67,3,1,Laboratory Technician,3,Married,2055,18711,1,Y,No,12,3,2,80,1,6,2,4,4,2,0,2
+39,No,Travel_Rarely,1387,Research & Development,16,2,Medical,1,40,3,Male,63,3,1,Laboratory Technician,4,Married,2909,9434,5,Y,No,11,3,1,80,1,9,2,4,7,5,0,6
+23,No,Travel_Rarely,216,Research & Development,1,2,Life Sciences,1,41,1,Male,92,3,1,Laboratory Technician,4,Single,2659,2031,1,Y,No,16,3,1,80,1,1,2,2,1,0,0,0
+36,No,Travel_Rarely,1402,Research & Development,5,1,Life Sciences,1,42,3,Male,88,3,1,Laboratory Technician,3,Single,2333,11396,0,Y,No,13,3,4,80,0,17,3,4,13,9,0,11
+23,No,Travel_Rarely,588,Research & Development,3,3,Life Sciences,1,43,2,Male,42,3,1,Laboratory Technician,2,Single,2062,17991,1,Y,No,12,3,2,80,1,1,3,3,0,0,0,0
+36,No,Travel_Rarely,1299,Research & Development,23,1,Medical,1,44,3,Male,94,3,1,Laboratory Technician,4,Married,2333,16705,5,Y,No,22,4,3,80,3,17,6,4,11,9,0,11
+31,No,Travel_Rarely,1346,Research & Development,2,2,Life Sciences,1,45,3,Male,83,4,1,Laboratory Technician,2,Married,2781,8448,2,Y,No,23,4,4,80,0,8,3,2,6,3,2,4
+33,No,Travel_Rarely,225,Research & Development,5,2,Life Sciences,1,46,4,Male,71,2,2,Laboratory Technician,4,Married,3252,2343,0,Y,No,25,4,3,80,1,8,2,4,6,4,0,4
+19,No,Travel_Rarely,1483,Research & Development,3,1,Life Sciences,1,47,2,Male,97,3,1,Laboratory Technician,4,Single,1051,8288,0,Y,Yes,11,3,3,80,0,0,6,2,0,0,0,0
+30,No,Travel_Rarely,1025,Research & Development,3,1,Life Sciences,1,48,4,Male,41,3,1,Laboratory Technician,4,Married,2090,24826,1,Y,No,13,3,1,80,1,5,2,4,4,2,0,2
+35,No,Travel_Rarely,663,Research & Development,2,3,Life Sciences,1,49,1,Male,58,2,1,Laboratory Technician,1,Married,3823,14932,5,Y,No,11,3,3,80,1,6,2,3,3,2,1,2
